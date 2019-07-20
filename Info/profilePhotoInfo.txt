@@ -1,0 +1,8 @@
+administer;./sample.jpg
+MaJianxiang;./sample.jpg
+Rica;./sample.jpg
+Lynn;./sample.jpg
+william;./sample2.jpg
+Jake;./sample2.jpg
+test;./sample.jpg
+zxin;./sample.jpg

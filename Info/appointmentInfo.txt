@@ -1,0 +1,2 @@
+Rica;administer;20190501,lunch,11:30-12:00;Chalin's Restaurant;Pending
+Rica;Lynn;20190409,lunch,11:00-11:30;Chalin's Restaurant;Pending
