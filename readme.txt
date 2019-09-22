@@ -1,5 +1,5 @@
 Project name: Fanfan
-Developed by: @RicaYang @Lynn @JiahuanLi
+Developed by: @MingyuMa
 
 # Description
 
