@@ -5,4 +5,4 @@ Lynn;./sample.jpg
 william;./sample2.jpg
 Jake;./sample2.jpg
 test;./sample.jpg
-zxin;./sample.jpg
+zxin;./sample.jpgyitianwang;C:/Users/willi/fanfan/sample.jpg
